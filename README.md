@@ -2,7 +2,7 @@
 
 A streaming resource that removes for sale and for rent signs across the GTA 5 map!
 
-![image](https://github.com/alberttheprince/popcornrp-xtxvxtx-nosalesigns/assets/85725579/8bdc8ed5-3608-48de-bcff-0c5c0447c133)
+![image](https://github.com/alberttheprince/popcornrp-xtxvxtx-nosalesigns/assets/85725579/2f85e4e5-12b3-473c-a1b6-d88d00f0fb83)
 
 This resource could not have been made without the hard work of xTxVxTx (Discord: @xTxVxTx#4282) and you should visit their Tebex shop and show support for their high quality and affordable weapon, player model, and map improvements. https://xtxvxtx-mods.tebex.io/
 
