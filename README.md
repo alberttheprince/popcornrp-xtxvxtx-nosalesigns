@@ -14,9 +14,12 @@ While a great fit for the GTA 5 Universe and reflective of the housing crisis af
 
 **To Install:**
 
-Put this in your resources folder wherever you keep streamed assets and ensure. That's it!
+1. Put this in your resources folder wherever you keep streamed assets.
+2. Open your server.cfg file, or through your config in TxAdmin, and add ensure popcornrp-xtxvxtx-nosalesigns to it's own line
 
- Although tested with multiple different servers and multiple MLO makers like Gabz, FM, Molo, etc. to make sure there was no conflicts, but if the designer is using any of the replaced props they may be missing or cause issues. This is your responsibility to diagnose and we will not provide assistance.
+That's it!
+
+Although tested with multiple different servers and multiple MLO makers like Gabz, FM, Molo, etc. to make sure there was no conflicts, but if the designer is using any of the replaced props they may be missing or cause issues. This is your responsibility to diagnose and we will not provide assistance.
 
 If you encounter any issues with any of the assets causing crashes, please make sure to test it with multiple users and let us know in issues. 
 
