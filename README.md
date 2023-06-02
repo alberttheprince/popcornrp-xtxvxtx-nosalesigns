@@ -8,9 +8,9 @@ This resource could not have been made without the hard work of xTxVxTx (Discord
 
 And the testing and object hunting of Popcorn RP! Come join us to be a part of our community! https://discord.gg/popcornroleplay 
 
-This group of files replaces and moves the majority of for sale, for rent, and for lease type signs across the map. Most visibily, forclosure and for sale signs in all the residential areas are gone.
+This group of files replaces and moves the majority of for sale, for rent, and for lease type signs across the map. Most visibily, foreclosure and for sale signs in all the residential areas are gone.
 
-Why would you want this? For Roleplay communities that provide player housing, it's common to hear "Can you remove the forclosure sign from in front of my house?" and while attempts have been made before, this will provide a solution to most of those complaints!
+Why would you want this? For Roleplay communities that provide player housing, it's common to hear "Can you remove the foreclosure sign from in front of my house?" and while attempts have been made before, this will provide a solution to most of those complaints!
 
 While a great fit for the GTA 5 Universe and reflective of the housing crisis after 2008, the signs don't really fit into most "modernized" and current roleplay universes.
 
