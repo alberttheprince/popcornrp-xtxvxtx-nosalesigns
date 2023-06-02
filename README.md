@@ -21,7 +21,7 @@ While a great fit for the GTA 5 Universe and reflective of the housing crisis af
 
 That's it!
 
-Although tested with multiple different servers and multiple MLO makers like Gabz, FM, Molo, etc. to make sure there was no conflicts, but if the designer is using any of the replaced props they may be missing or cause issues. This is your responsibility to diagnose and we will not provide assistance.
+We tested this with multiple servers and multiple MLO makers like Gabz, FM, Molo, etc. to make sure there are no conflicts. If the designer is using any of the replaced props they may be missing or cause issues. This is your responsibility to diagnose and we will not provide assistance.
 
 If you encounter any issues with any of the assets causing crashes, please make sure to test it with multiple users and let us know in issues. 
 
